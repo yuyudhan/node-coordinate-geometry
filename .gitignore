@@ -1,0 +1,10 @@
+node_modules
+bower_components
+*.out
+*.csv
+*.xml
+*.html
+*.png
+*.jpg
+*.pdf
+

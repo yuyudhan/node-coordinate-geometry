@@ -1,0 +1,19 @@
+{
+  "name": "node-coordinate-geometry",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuyudhan/node-coordinate-geometry.git"
+  },
+  "author": "Ankur Pandey <ankurkumarpandey@gmail.com> (https://github.com/yuyudhan)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuyudhan/node-coordinate-geometry/issues"
+  },
+  "homepage": "https://github.com/yuyudhan/node-coordinate-geometry#readme"
+}
