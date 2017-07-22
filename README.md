@@ -1,6 +1,17 @@
 # Coordinate geometry for Node & JS applications
 Set of commonly required functions and functionalities relating to 2d geometry.
 
+
+## Still under development
+This module is going to contain common and uncommon functions and functionalities required in coordinate geometry, specifically for NodeJS and front-end javascript applications.
+
+#### Contributions
+The repository is in its very nascent stage and open for contribution.
+
+#### Upcoming features are
+1. Common functions and utilities in 2d geometry
+2. Support for polar (Radial) coordinates.
+
 ## Installation
 ```sh
 npm i node-coordinate-geometry --save
@@ -27,17 +38,7 @@ var lines = ncg.lines;
 var points = ncg.points;
 var polygons = ncg.polygons;
 ```
-
 **More detailed documentation of each module can be found in the Detailed Documentation sectoin below.**
-## Still under development
-This module is going to contain common and uncommon functions and functionalities required in coordinate geometry, specifically for NodeJS and front-end javascript applications.
-
-#### Contributions
-The repository is in its very nascent stage and open for contribution.
-
-#### Upcoming features are
-1. Common functions and utilities in 2d geometry
-2. Support for polar (Radial) coordinates.
 
 ## Testing
 
