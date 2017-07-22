@@ -2,11 +2,11 @@
 Set of commonly required functions and functionalities relating to 2d geometry.
 
 
-## Still under development
+## Still under heavy development
 This module is going to contain common and uncommon functions and functionalities required in coordinate geometry, specifically for NodeJS and front-end javascript applications.
 
 #### Contributions
-The repository is in its very nascent stage and open for contribution.
+The repository is in its very nascent stage and open for contribution. In the absense of a proper repository for 2d geometry utilities, this project is highly needed. Connect @yuyudhan.
 
 #### Upcoming features are
 1. Common functions and utilities in 2d geometry
