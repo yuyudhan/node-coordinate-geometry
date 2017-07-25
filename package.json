@@ -18,5 +18,8 @@
   "homepage": "https://github.com/yuyudhan/node-coordinate-geometry#readme",
   "devDependencies": {
     "chai": "^4.1.0"
+  },
+  "dependencies": {
+    "robust-point-in-polygon": "^1.0.3"
   }
 }

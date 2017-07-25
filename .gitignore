@@ -7,4 +7,5 @@ bower_components
 *.png
 *.jpg
 *.pdf
-
+*.pad
+tmp
